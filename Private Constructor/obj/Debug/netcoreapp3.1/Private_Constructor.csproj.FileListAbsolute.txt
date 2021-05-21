@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\obj\Debug\netcoreapp3.1\Private_Constructor.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\obj\Debug\netcoreapp3.1\Private_Constructor.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\obj\Debug\netcoreapp3.1\Private_Constructor.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\obj\Debug\netcoreapp3.1\Private_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\bin\Debug\netcoreapp3.1\Private_Constructor.exe
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\bin\Debug\netcoreapp3.1\Private_Constructor.deps.json
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\bin\Debug\netcoreapp3.1\Private_Constructor.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\bin\Debug\netcoreapp3.1\Private_Constructor.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\bin\Debug\netcoreapp3.1\Private_Constructor.dll
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\bin\Debug\netcoreapp3.1\Private_Constructor.pdb
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\obj\Debug\netcoreapp3.1\Private_Constructor.dll
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\obj\Debug\netcoreapp3.1\Private_Constructor.pdb
+C:\Users\Rohit Dasari\source\repos\Private_Constructor\obj\Debug\netcoreapp3.1\Private_Constructor.genruntimeconfig.cache
